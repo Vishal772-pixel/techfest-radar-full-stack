@@ -6,6 +6,8 @@ import { Card, CardContent, CardFooter } from "@/components/ui/card"
 import type { EventType } from "@/types/event"
 
 interface EventCardProps {
+
+  
   event: EventType
 }
 
