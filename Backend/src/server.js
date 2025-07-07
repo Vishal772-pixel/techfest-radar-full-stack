@@ -4,3 +4,6 @@ import mongoose from "mongoose";
 connectDb();
 
 app.get(/)
+
+
+        
